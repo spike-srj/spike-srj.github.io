@@ -1,5 +1,9 @@
 # Ignore the contents of the _site directory
 _site/
+_posts/
+_portfolio/
+_teaching/
+_talks/
 
 # Ignore the directory for local files during development
 local/
