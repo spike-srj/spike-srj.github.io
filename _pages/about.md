@@ -7,12 +7,50 @@ redirect_from:
   - /about.html
 ---
 
-With a robust foundation in mathematics and physics, I possess an in-depth understanding of the mechanisms of light radiation. My practical experiences extend to data processing and graphical rendering, showcasing a blend of theoretical knowledge and real-world application.
-
 I am deeply passionate about self-learning, especially in the field of graphics. My particular interest lies in using ray-tracing techniques to simulate celestial phenomena like black holes. This interest is bolstered by my proficiency in reading English literature, a skill developed through consistent engagement with academic texts.
 
-Photography, one of my hobbies, reflects my keen aesthetic sense. I have applied this passion professionally as a photographer at the "Star-Gazing" summer camp, capturing the night sky and more.
+Education
+======
+* University of Science and Technology of China 2020.9 - 2023.6
+MPhil, Major: Astrophysics GPA:3.11/4.0
+Majors: General Relativity, Astrophysical Radiation Mechanisms, Observational Astrophysics, Radio
+Astronomy, Stellar Formation and Evolution, Cosmology.
 
-Teamwork is another cornerstone of my approach. I served as the president of the Tai Chi Club, leading it to earn the title of one of the top ten clubs. During my university years, I also collaborated with the Astronomy Club to organize multiple public outreach activities in astronomy, further combining my leadership skills and scientific interests.
+* Hebei Normal University 2015.9 - 2019.6
+BSc, Major:Space Science and Technology GPA:3.09/4.0
+Majors: Quantum Mechanics, Optics, Probability Theory and Mathematical Statistics, Linear Algebra,
+Mathematical Methods in Physics, Linux Systems and IDL for Data Visualization.
 
-This blend of analytical acumen, creative expression, and leadership experience defines my personal and professional identity, driving me to continually explore and contribute to the fields of science and technology.
+
+Work experience
+======
+* imotion 2023.7 - today
+Graphic Algorithm Engineer
+
+Research experience
+======
+*Hierarchical Structure and Self-gravity in the Maddalena Giant Molecular Cloud
+Dec 2021 - July 2024 Apj, accepted for publication.
+· Employed a modiffed Dendrogram algorithm to decompose the 13CO emission datacube of the Maddalena
+ giant molecular cloud into hierarchical substructures, and investigated the inffuence of selfgravity
+ on different spatial scales.
+· Contribution: Modiffed the dendrogram algorithm, performed data analysis, visualized hierarchical
+data structures, and authored the entire manuscript.
+· Advisor: Prof. Hong-Chi Wang
+ imotion 2023.7 - today
+
+*Does Feedback from Supermassive Black Holes Coevolve with the Host in Type 2 Quasars
+Dec 2017 - July 2019 Apj, 2023, 950 16.
+· Revealed how the activity of supermassive black holes inffuences star formation and evolution in their
+host galaxies by studying material outffows in Type 2 quasars.
+· Contribution: Performed data analysis
+· Advisor: Prof. Ming-Zhi Kong
+
+
+Skills
+======
+*my day-to-day: 
+  *C++, OSG, OpenGL, Python (NumPy, matplotlib, SciPy, panda), LINUX, git
+
+*Experience with:
+ * IDL, MESA, plotly, mayavi, glue

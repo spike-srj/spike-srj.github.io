@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
 * University of Science and Technology of China 2020.9 - 2023.6
 MPhil, Major: Astrophysics GPA:3.11/4.0
@@ -53,7 +53,7 @@ Skills
   *C++, OSG, OpenGL, Python (NumPy, matplotlib, SciPy, panda), LINUX, git
 
 *Experience with:
- * IDL, MESA, plotly, mayavi, glue
+ * IDL, MESA, plotly, mayavi, glue -->
   
 
 <!-- Publications
