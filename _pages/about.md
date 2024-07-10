@@ -39,6 +39,8 @@ data structures, and authored the entire manuscript.
 · Advisor: Prof. Hong-Chi Wang
  imotion 2023.7 - today
 
+![img](/images/1.png)
+
 *Does Feedback from Supermassive Black Holes Coevolve with the Host in Type 2 Quasars
 Dec 2017 - July 2019 Apj, 2023, 950 16.
 · Revealed how the activity of supermassive black holes inffuences star formation and evolution in their
@@ -53,4 +55,5 @@ Skills
   *C++, OSG, OpenGL, Python (NumPy, matplotlib, SciPy, panda), LINUX, git
 
 *Experience with:
- * IDL, MESA, plotly, mayavi, glue
+ * IDL, MESA, plotly, mayavi, glue -->
+  
