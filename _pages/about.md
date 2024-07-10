@@ -12,14 +12,14 @@ I am deeply passionate about self-learning, especially in the field of graphics.
 Education
 ======
 * University of Science and Technology of China 2020.9 - 2023.6
-MPhil, Major: Astrophysics GPA:3.11/4.0
-Majors: General Relativity, Astrophysical Radiation Mechanisms, Observational Astrophysics, Radio
-Astronomy, Stellar Formation and Evolution, Cosmology.
+MPhil, Major: Astrophysics 
+GPA:3.11/4.0
+Majors: General Relativity, Astrophysical Radiation Mechanisms, Observational Astrophysics, Radio Astronomy, Stellar Formation and Evolution, Cosmology.
 
 * Hebei Normal University 2015.9 - 2019.6
-BSc, Major:Space Science and Technology GPA:3.09/4.0
-Majors: Quantum Mechanics, Optics, Probability Theory and Mathematical Statistics, Linear Algebra,
-Mathematical Methods in Physics, Linux Systems and IDL for Data Visualization.
+BSc, Major:Space Science and Technology 
+GPA:3.09/4.0
+Majors: Quantum Mechanics, Optics, Probability Theory and Mathematical Statistics, Linear Algebra,Mathematical Methods in Physics, Linux Systems and IDL for Data Visualization.
 
 
 Work experience
@@ -54,5 +54,5 @@ Skills
   + C++, OSG, OpenGL, Python (NumPy, matplotlib, SciPy, panda), LINUX, git
 
 * Experience with:
- + IDL, MESA, plotly, mayavi, glue -->
+ + IDL, MESA, plotly, mayavi, glue
   
