@@ -43,17 +43,16 @@ data structures, and authored the entire manuscript.
 
 * Does Feedback from Supermassive Black Holes Coevolve with the Host in Type 2 Quasars
 Dec 2017 - July 2019 Apj, 2023, 950 16.
-- Revealed how the activity of supermassive black holes inffuences star formation and evolution in their
-host galaxies by studying material outffows in Type 2 quasars.
-- Contribution: Performed data analysis
-- Advisor: Prof. Ming-Zhi Kong
++ Revealed how the activity of supermassive black holes inffuences star formation and evolution in their host galaxies by studying material outffows in Type 2 quasars.
++ Contribution: Performed data analysis
++ Advisor: Prof. Ming-Zhi Kong
 
 
 Skills
 ======
 * my day-to-day: 
-  - C++, OSG, OpenGL, Python (NumPy, matplotlib, SciPy, panda), LINUX, git
+  + C++, OSG, OpenGL, Python (NumPy, matplotlib, SciPy, panda), LINUX, git
 
 * Experience with:
- -  IDL, MESA, plotly, mayavi, glue -->
+ + IDL, MESA, plotly, mayavi, glue -->
   

@@ -19,6 +19,7 @@ redirect_from:
   
 <!-- Personal Project experience
 ====== -->
+
 Real-Time Black Hole Ray Tracing Simulation Using OpenGL
 ======
 
@@ -35,7 +36,7 @@ Ray Tracing Model Extension
 ======
 
 April 2022 - July 2022
-- Extended the ”Ray Tracing in One Weekend” project to include additional ray tracing features, significantly enhancing the realism and complexity of the rendered scenes.
+Extended the ”Ray Tracing in One Weekend” project to include additional ray tracing features, significantly enhancing the realism and complexity of the rendered scenes.
 Key Responsibilities: 
 1. Incorporated BRDF models for more accurate simulation of light-material interactions. 
 2. Implemented a BVH (Bounding Volume Hierarchy) to optimize the rendering process,reducing computation time while maintaining high-quality output.
