@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+Education
+======
+* 2020 - 2023: MA in Astrophysics, University of Science and Technology of China 
 
-{% include base_path %}
+* 2015 - 2019: BA in Space Science and Technology, Hebei Normal University 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Work experience

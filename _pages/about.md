@@ -17,26 +17,21 @@ Education
 
 Work experience
 ======
-* imotion 2023.7 - today
-Graphic Algorithm Engineer
+* 2023.7 - today: Graphic Algorithm Engineer in iMotion 
+Rendered parking lot view using OSG engine, including 3D car model and 2d UI.
 
-1. Rendered parking lot view using OSG engine, including 3D car model and 2d UI.
-2. Performs a coordinate transformation of the incoming coordinates to correctly display the position of
-the environment and the vehicle.
-3. Creating interactive animations of car models
-4. Maintain camera view switching
 
 Research experience
 ======
 ![img](/images/1.png)
 ![img](/images/3.png)
-* Hierarchical Structure and Self-gravity in the Maddalena Giant Molecular Cloud
+# Hierarchical Structure and Self-gravity in the Maddalena Giant Molecular Cloud
   Date: Dec 2021 - July 2024, Apj, accepted for publication.
   Employed a modiffed Dendrogram algorithm to decompose the 13CO emission datacube of the Maddalena
  giant molecular cloud into hierarchical substructures, and investigated the inffuence of selfgravity
  on different spatial scales.
 
 
-* Does Feedback from Supermassive Black Holes Coevolve with the Host in Type 2 Quasars
+# Does Feedback from Supermassive Black Holes Coevolve with the Host in Type 2 Quasars?
   Date: Dec 2017 - July 2019, Apj, 2023, 950 16.
   Revealed how the activity of supermassive black holes inffuences star formation and evolution in their host galaxies by studying material outffows in Type 2 quasars.
