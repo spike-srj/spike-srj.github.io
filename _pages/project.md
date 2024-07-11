@@ -19,7 +19,7 @@ redirect_from:
   
 <!-- Personal Project experience
 ====== -->
-
+![img](/images/1.jpg)
 Real-Time Black Hole Ray Tracing Simulation Using OpenGL
 ======
 
@@ -30,8 +30,8 @@ Key Responsibilities:
 2. Explored the effects of a simpliffed geodesic equation on light bending near black holes. 
 3. Initiating the enhancement of the simulation’s accuracy by proposing and working towards implementing an advanced geodesic equation.
 
-![img](/images/1.jpg)
 
+![img](/images/2.png)
 Ray Tracing Model Extension
 ======
 
