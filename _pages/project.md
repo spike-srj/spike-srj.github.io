@@ -19,18 +19,26 @@ redirect_from:
   
 <!-- Personal Project experience
 ====== -->
-![img](/images/1.jpg)
+![img](/images/blackhole.jpg)
 
 # Real-Time Black Hole Ray Tracing Simulation Using OpenGL
 
 Oct 2023 - today  
 
-Studied and analyzed an existing black hole ray tracing simulation implemented using OpenGL.  
+Developed an advanced real-time black hole visualization system that accurately simulates photon trajectories around massive gravitational bodies, creating physically-based renders of black hole phenomena including gravitational lensing, photon spheres, and event horizons.
 
 Key Responsibilities:  
-1. Analyzed the existing codebase and algorithms of the OpenGL black hole ray tracing simulation. 
-2. Explored the effects of a simpliffed geodesic equation on light bending near black holes. 
-3. Initiating the enhancement of the simulation’s accuracy by proposing and working towards implementing an advanced geodesic equation.
+1. Engineered a real-time C++/GLSL simulation to model photon trajectories and gravitational lensing
+phenomena in Schwarzschild spacetime, employing fourth-order Runge-Kutta integration.
+2. Systematically addressed and resolved numerical instabilities in the ray tracing algorithm that led to
+visual artifacts under specific geometric conditions, ensuring physically consistent depictions of light
+deflection.
+3. Implemented robust numerical techniques for handling radial turning points and integrating conserved
+quantities (e.g., signed angular momentum) to accurately simulate a range of photon orbits and their
+ultimate fates (escape or capture).
+4. Deepened expertise in applying general relativity to computational astrophysics, with a keen interest
+in extending these methods to explore more complex scenarios such as rotating black holes or the
+dynamics of matter and radiation in extreme gravitational environments.
 
 
 ![img](/images/2.png)
