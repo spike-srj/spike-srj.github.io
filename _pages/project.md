@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Personal Project experience"
+title: "Computational Projects"
 permalink: /project/
 author_profile: true
 redirect_from:
@@ -9,47 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
+## Real-Time Black Hole Ray Tracing Simulation (OpenGL)
 
+*Duration: Oct 2023 – Present*
 
-<!-- <!-- Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Personal Project experience
-====== -->
-![img](/images/blackhole.jpg)
+Developed a real-time ray tracer that visualizes photon dynamics in Schwarzschild spacetime. The program integrates null geodesics with a fourth-order Runge–Kutta scheme and renders gravitational lensing, photon rings, and event horizons at interactive frame rates.
 
-# Real-Time Black Hole Ray Tracing Simulation Using OpenGL
+### Contributions
+- Designed and implemented the C++/GLSL rendering pipeline.
+- Stabilized the integrator with adaptive step sizing and error control, eliminating artefacts near the photon sphere.
+- Added handling of radial turning points and conserved quantities (e.g., signed angular momentum) to classify photon orbits (capture vs. escape).
+- Planned extensions to Kerr metrics and accretion-disk radiative transfer.
 
-Oct 2023 - today  
+![Black hole rendering](/images/blackhole.jpg)
 
-Developed an advanced real-time black hole visualization system that accurately simulates photon trajectories around massive gravitational bodies, creating physically-based renders of black hole phenomena including gravitational lensing, photon spheres, and event horizons.
+---
 
-Key Responsibilities:  
-1. Engineered a real-time C++/GLSL simulation to model photon trajectories and gravitational lensing
-phenomena in Schwarzschild spacetime, employing fourth-order Runge-Kutta integration.
-2. Systematically addressed and resolved numerical instabilities in the ray tracing algorithm that led to
-visual artifacts under specific geometric conditions, ensuring physically consistent depictions of light
-deflection.
-3. Implemented robust numerical techniques for handling radial turning points and integrating conserved
-quantities (e.g., signed angular momentum) to accurately simulate a range of photon orbits and their
-ultimate fates (escape or capture).
-4. Deepened expertise in applying general relativity to computational astrophysics, with a keen interest
-in extending these methods to explore more complex scenarios such as rotating black holes or the
-dynamics of matter and radiation in extreme gravitational environments.
+## Ray-Tracing Model Extension
 
+*Duration: Apr 2022 – Jul 2022*
 
-![img](/images/2.png)
+Extended the learning project "Ray Tracing in One Weekend" with physically based shading and acceleration structures.
 
-# Ray Tracing Model Extension
+### Contributions
+- Integrated microfacet BRDFs (GGX, Cook–Torrance) for realistic light–material interaction.
+- Implemented a bounding-volume hierarchy (BVH) to reduce render time while preserving image quality.
 
-April 2022 - July 2022  
-
-Extended the ”Ray Tracing in One Weekend” project to include additional ray tracing features, significantly enhancing the realism and complexity of the rendered scenes.  
-
-Key Responsibilities:  
-1. Incorporated BRDF models for more accurate simulation of light-material interactions. 
-2. Implemented a BVH (Bounding Volume Hierarchy) to optimize the rendering process,reducing computation time while maintaining high-quality output.
+![Ray tracing sample](/images/2.png)
 
